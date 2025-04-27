@@ -1,0 +1,40 @@
+=== Instagram Content Performance Insights ===
+
+1. Overall Channel Performance:
+- Total Posts: 119
+- Average Impressions: 5704
+- Average Engagement Rate: 3.16%
+- Average Save Rate: 2.69%
+
+2. Content Distribution:
+- From Home: 44.1%
+- From Hashtags: 33.6%
+- From Explore: 19.2%
+- From Other: 3.0%
+
+3. Top Performing Content:
+
+Post 119:
+Impressions: 36919
+Engagement: 448
+Saves: 653
+
+Post 118:
+Impressions: 32695
+Engagement: 551
+Saves: 1095
+
+Post 110:
+Impressions: 17713
+Engagement: 311
+Saves: 504
+
+Post 108:
+Impressions: 17396
+Engagement: 423
+Saves: 285
+
+Post 41:
+Impressions: 16062
+Engagement: 422
+Saves: 252
